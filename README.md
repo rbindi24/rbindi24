@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about ML and data science for sports and fianance
 - 🌱 I’m currently learning about nflfastr w/ R and python for finance.
 - 📫 How to reach me: ryanbindi5@gmail.com
-- P.S. I am not a doctor...
+
 
 <!---
 rbindi24/rbindi24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
