@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rbindi24
 - 👀 I’m interested in learning about ML and data science for sports and fianance
-- 🌱 I’m currently learning about nflfastr w/ R and python for finance.
-- 📫 How to reach me: ryanbindi5@gmail.com
+- 🌱 I’m currently learning finance with R and python.
+
 
 
 <!---
